@@ -1,10 +1,19 @@
-#Text Summarizer App
+                                        #Text Summarizer App
+
+
+
+
 This is a simple web application built with Streamlit to summarize text using the Lang Chain library.
 
 Overview
+
+
 Text Summarizer App is a tool that provides a convenient interface for users to input large bodies of text and receive concise summaries. The app utilizes Lang Chain, a natural language processing library, to generate summaries based on the input text.
 
 Features
+
+
+
 Input Text: Users can paste or type in the text they want to summarize.
 Summary Generation: The app uses Lang Chain to analyze and summarize the input text.
 Adjustable Summary Length: Users can specify the desired length of the summary.
@@ -31,9 +40,13 @@ Contributing
 Contributions to Text Summarizer App are welcome! If you have suggestions for new features, improvements, or bug fixes, please submit an issue or pull request.
 
 License
+
+
 This project is licensed under the MIT License.
 
 Acknowledgements
+
+
 Streamlit
 Lang Chain
 
